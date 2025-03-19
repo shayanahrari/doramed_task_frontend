@@ -50,4 +50,15 @@ To get started with this Flutter project:
   <img src="assets/images/4.jpg" alt="Image 3" width="200" />
 </div>
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/images/5.jpg" alt="Image 1" width="200" />
+  <img src="assets/images/6.jpg" alt="Image 2" width="200" />
+  <img src="assets/images/7.jpg" alt="Image 3" width="200" />
+</div>
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/images/8.jpg" alt="Image 1" width="200" />
+  <img src="assets/images/9.jpg" alt="Image 2" width="200" />
+</div>
+
 
