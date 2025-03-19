@@ -44,5 +44,10 @@ To get started with this Flutter project:
 
 ## Screeshots
 
-![Alt text](./assets/images/2.jpg) ![Alt text](./assets/images/3.jpg) 
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/images/2.jpg" alt="Image 1" width="200" />
+  <img src="assets/images/3.jpg" alt="Image 2" width="200" />
+  <img src="assets/images/4.jpg" alt="Image 3" width="200" />
+</div>
+
 
