@@ -42,4 +42,7 @@ To get started with this Flutter project:
    flutter run
    ```
 
+## Screeshots
+
+![Alt text](./assets/images/2.jpg) ![Alt text](./assets/images/3.jpg) 
 
